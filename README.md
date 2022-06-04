@@ -1,34 +1,15 @@
 ### Hi there 👋
 
-🐁 My name is **Matthew Francis**, also known as **themousery**.
+🐁 My name is **Matthew Francis**, also known as **themousery**. I have used computers my entire life and have always been fascinated by their inner workings. After discovering coding at the age of 12, I passionately read and practiced, learning multiple programming languages, along with a great deal of periphery skills. I am always learning, building, and looking for opportunities to grow.
 
 💌 My email is [matthew@themousery.com](mailto:matthew@themousery.com).
 
-🧑‍💻 I have been programming since the age of 12. 
+🧑‍💻 I have been providing freelance services since 2019. I help businesses create software automation flows, from web scrapers to spreadsheet tools.
 
-🤖 I have been freelancing since 17 providing backend automation services. 
-
-🕸️ In 2021 I started studying and working in Web3.
-
-🖨️ I designed and coded a Web3 merch store that lets you print your Avax NFTs: [PrintCoin](https://printcoin.art/).
+🖨️ In 2021 I started studying and working in Web3. I built a Web3 merch store from the ground up: [PrintCoin](https://printcoin.art/).
 
 ### Programming Languages
 🐍 Python
 ☕️ JavaScript
 👛 Solidity
 🌕️ Lua
-
-<!--
-**themousery/themousery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
